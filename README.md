@@ -1,6 +1,6 @@
 # Youtube-reference-list
 
-Hello, this is a fork of [Sages YouTube Reference List](https://github.com/DragonHeart000/Youtube-reference-list/blob/master/README.md). The idea of this fork is to add channels to the list faster than they were being added by sage and to catagorize channels so people who are here for a specific sub type of game design can find a recomended channel easily. Some channels may be shown in multiple catagories if they fall into more than one.
+Hello, this is a fork of [Sages YouTube Reference List](https://github.com/SubSage/Youtube-reference-list). The idea of this fork is to add channels to the list faster than they were being added by sage and to catagorize channels so people who are here for a specific sub type of game design can find a recomended channel easily. Some channels may be shown in multiple catagories if they fall into more than one.
 
 If you would like to have a channel added to this list please submit an issue on GitHub with the URL to the channel and what catagory of channel they are. I will get to it as soon as posible.
 

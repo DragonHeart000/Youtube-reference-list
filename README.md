@@ -42,6 +42,14 @@ If you would like to have a channel added to this list please submit an issue on
 |[**Super Bunnyhop**](https://www.youtube.com/channel/UCWqr2tH3dPshNhPjV5h1xRw) | Well worded criticisms and reviews of games in general. [Has a site as well](http://superbunnyhop.com/)|
 |[**TotalBiscuit**](https://www.youtube.com/channel/UCy1Ms_5qBTawC-k7PVjHXKQ) | [A well known reviewer for games.](https://en.wikipedia.org/wiki/TotalBiscuit) He has provided lots of great commentary on a plethora of indie games and runs a podcast.|
 
+# Game News
+
+|Name & Link|Description|
+|---|---|
+|[**Jim Sterling**](https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA) | A voice in game dev, somewhat more difficult to hear out time to time. Has opinions sometimes worth hearing on news within the field. His reviews might not be very nuanced or technical, but he does a lot to uncover the muck in the industry. I would say he's a good source for news in the industry.|
+|[**LegacyKillaHD**](https://www.youtube.com/user/LegacyKillaHD) |  Videos about all the news, information, gameplay, trailers and crazy theories going on currently in games.|
+|[**Upper Echelon Gamers**](https://www.youtube.com/channel/UChI0q9a-ZcbZh7dAu_-J-hg) | Well worded videos on curent gaming news. Tends to focus more towards controversial topics.|
+
 # Not sorted
 
 Bellow are channels that have been requested to be added but have not yet been reviewed or sorted. The original list was all unsorted so currently most of what's bellow is from the fork and just has not yet been sorted through.
@@ -51,7 +59,6 @@ Bellow are channels that have been requested to be added but have not yet been r
 |[**Ahoy**](https://www.youtube.com/user/XboxAhoy) | Documentary style overview of history of games and mechanics within games. Has amazing presentation skills and a great voice. If you miss watching documentaries, Ahoy is your person. Ahoy has covered histories of games and of tools that are often potrayed in games.|
 |[**Errant Signal**](https://www.youtube.com/channel/UCm4JnxTxtvItQecKUc4zRhQ) | Well worded video essays on games.|
 |[**Joseph Anderson**](https://www.youtube.com/channel/UCyhnYIvIKK_--PiJXCMKxQQ) | Provides longform analysis and reviews that focus on gameplay from birdseye view.|
-|[**Jim Sterling**](https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA) | A voice in game dev, somewhat more difficult to hear out time to time. Has opinions sometimes worth hearing on news within the field. His reviews might not be very nuanced or technical, but he does a lot to uncover the muck in the industry. I would say he's a good source for news in the industry.|
 |[**Noah Caldwell-Gervais**](https://www.youtube.com/channel/UC5CYeHPLer3lbEhgonvbbAA) | Long form analysis (video essays) on games. Very, and I mean extremely comprehensive analysis/discussion on video games. A short video here is easily 45min+.|
 |[**Folding Ideas**](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ) | Mostly focuses on film, but a good amount of what he speaks has some use in game design, which he also does talk about. Folding Ideas plays video games as well and does speak well on them. He provides a great perspective from someone who has studied film much more than the typical gamedev.|
 |[**Stop skeletons from fighting**](https://www.youtube.com/channel/UC5Xeb9-FhZXgvw340n7PsCQ) | Can't really think of much for this channel, haven't seen a whole lot, but seems somewhat promising. Good source for seeing other games in the field.|

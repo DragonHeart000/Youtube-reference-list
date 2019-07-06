@@ -22,7 +22,7 @@ If you would like to have a channel added to this list please submit an issue on
 
 |Name & Link|Description|
 |---|---|
-|[**Marshall McGee**](https://www.youtube.com/channel/UCIoNgwHpavUi2UnC68cKgbw) | Has short but insightful videos on Sound Design. Very good at showing the process of sound design and explaing clearly what each thing is for and why. Sound Designer on JUST CAUSE 4.|
+|[**Marshall McGee**](https://www.youtube.com/channel/UCIoNgwHpavUi2UnC68cKgbw) | Has short but insightful videos on Sound Design. Very good at showing the process of sound design and explaining clearly what each thing is for and why. Sound Designer on JUST CAUSE 4.|
 
 # Business
 
